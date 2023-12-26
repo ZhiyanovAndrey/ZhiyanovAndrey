@@ -10,8 +10,8 @@
 - Desktop приложение на WPF с хранением данных на PostgreSQL или SQL сервере;
 - Desktop приложение на WPF, которое можно забрать с собой, таблицы SQL хранятся в папке с программой.
 
-PS для HR
-С июля 2023 мало Contributions, так как делаю проект TaskManager и развивал его в ветке develop, не знал что Contributions сохраняются только от ветки по умолчанию, т.е. с ветки master. 
+PS для HR.
+С июля 2023 мало Contributions, так как делаю проект TaskManager и развивал его в ветке develop, а Contributions сохраняются только от ветки по умолчанию, т.е. с ветки master. 
 
 <!--
 **ZhiyanovAndrey/ZhiyanovAndrey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
