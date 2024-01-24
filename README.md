@@ -14,6 +14,8 @@
 P.S. 
 С июля 2023 мало Contributions, так как делаю проект TaskManager и развивал его в ветке develop, а Contributions сохраняются только от ветки по умолчанию, т.е. с ветки master. 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 [![codewars](https://www.codewars.com/users/ZhiyanovAndrey/badges/small)](https://www.codewars.com/users/ZhiyanovAndrey)
 
 <!--
