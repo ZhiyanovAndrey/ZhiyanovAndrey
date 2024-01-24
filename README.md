@@ -1,5 +1,9 @@
 Привет! Меня зовут Андрей я занимаюсь разработкой на C# в течении 2-х лет, имею опыт разработки десктопных приложений, Web приложений и баз данных. 
 
+![Иллюстрация к проекту](https://github.com/ZhiyanovAndrey/coolproject/raw/master/image/image.png)
+
+![Image alt](https://github.com/{ZhiyanovAndrey}/{https://giphy.com/stickers/sticker-kawaii-vibe-Uaxj062PavgqZRhVkS}/image.png)
+
 <img src=https://giphy.com/stickers/sticker-kawaii-vibe-Uaxj062PavgqZRhVkS>
 - Использую в работе C#, PostgreSQL, WPF, ASP.NET, Entity Framework.
 - Интересуюсь Docker, Linux.
@@ -22,6 +26,15 @@ P.S.
 
 <!--
 **ZhiyanovAndrey/ZhiyanovAndrey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+![Иллюстрация к проекту](https://github.com/jon/coolproject/raw/master/image/image.png)
+
+![Image alt](https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png)
+
+{username} — ваш ник на ГитХабе;
+{repository} — репозиторий где хранятся картинки;
+{branch} — ветка репозитория;
+{path} — путь к месту нахождения картинки.
 
 Here are some ideas to get you started:
 
