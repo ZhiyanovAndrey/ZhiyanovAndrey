@@ -1,10 +1,6 @@
+![Иллюстрация к проекту](https://vscode.ru/wp-content/uploads/2017/11/hello-world.jpg)
 Привет! Меня зовут Андрей я занимаюсь разработкой на C# в течении 2-х лет, имею опыт разработки десктопных приложений, Web приложений и баз данных. 
 
-![Иллюстрация к проекту](https://github.com/ZhiyanovAndrey/coolproject/raw/master/image/image.png)
-
-![Image alt](https://github.com/{ZhiyanovAndrey}/{https://giphy.com/stickers/sticker-kawaii-vibe-Uaxj062PavgqZRhVkS}/image.png)
-
-<img src=https://giphy.com/stickers/sticker-kawaii-vibe-Uaxj062PavgqZRhVkS>
 - Использую в работе C#, PostgreSQL, WPF, ASP.NET, Entity Framework.
 - Интересуюсь Docker, Linux.
 
