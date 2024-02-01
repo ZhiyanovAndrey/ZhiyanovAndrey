@@ -11,7 +11,7 @@
 - Desktop приложение на WPF с хранением данных на PostgreSQL или SQL сервере;
 - Desktop приложение на WPF, которое можно забрать с собой, таблицы SQL хранятся в папке с программой.
 
-P.S. 
+P.S. для рекрутеров и HR'ов:  
 С июля 2023 мало Contributions, так как делаю проект TaskManager и развивал его в ветке develop, а Contributions сохраняются только от ветки по умолчанию, т.е. с ветки master. 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZhiyanovAndrey&layout=compact)](https://github.com/ZhiyanovAndrey/github-readme-stats)
