@@ -3,7 +3,8 @@
 
 - Использую в работе C#, PostgreSQL, WPF, ASP.NET, Entity Framework.
 - Интересуюсь Docker, Linux.
-
+- 
+![Диплом](https://vscode.ru/wp-content/uploads/2017/11/hello-world.jpg)
 
 Для вашей компании я могу сделать:
 
