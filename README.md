@@ -8,7 +8,7 @@
   
 **Диплом ИТМО** [здесь](https://github.com/ZhiyanovAndrey/ZhiyanovAndrey/blob/main/2022-04-30%20%D0%B4%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC%20%D0%98%D0%A2%D0%9C%D0%9E.pdf)
 
-**Сертификат CambrigeEnglish** [здесь](https://github.com/ZhiyanovAndrey/ZhiyanovAndrey/blob/main/2022-04-30%20%D0%B4%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC%20%D0%98%D0%A2%D0%9C%D0%9E.pdf)
+**Сертификат CambrigeEnglish** [здесь](https://github.com/ZhiyanovAndrey/ZhiyanovAndrey/blob/main/photo_2024-02-22_10-07-38.jpg)
 
 Для вашей компании я могу сделать:
 
