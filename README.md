@@ -17,8 +17,8 @@
 Для вашей компании я могу сделать:
 
 - REST API сервис с хранением данных на PostgreSQL сервере - [OnlineStore](https://github.com/ZhiyanovAndrey/OnlineStore)
-- WEB приложение с клиентом на WPF и с хранением данных на PostgreSQL сервере - [StuffManager](https://github.com/ZhiyanovAndrey/StaffManager)
-- Desktop приложение на WPF с хранением данных на PostgreSQL или SQL сервере;
+- REST API сервис с хранением данных на PostgreSQL сервере - [TaskManager](https://github.com/ZhiyanovAndrey/StaffManager)
+- Desktop приложение на WPF с хранением данных на PostgreSQL или SQL сервере  - [StuffManager](https://github.com/ZhiyanovAndrey/TaskManager)
 - Desktop приложение на WPF, которое можно забрать с собой, таблицы SQL хранятся в папке с программой.
 
 P.S. для рекрутеров:  
