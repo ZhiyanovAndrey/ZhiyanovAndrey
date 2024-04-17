@@ -19,7 +19,7 @@
 - REST API сервис с хранением данных на PostgreSQL сервере - [OnlineStore](https://github.com/ZhiyanovAndrey/OnlineStore)
 - REST API сервис для клиент-серверного приложения с хранением данных на PostgreSQL сервере - [TaskManager](https://github.com/ZhiyanovAndrey/TaskManagerCourse)
 - Desktop приложение на WPF с хранением данных на PostgreSQL или SQL сервере  - [StuffManager](https://github.com/ZhiyanovAndrey/StaffManager)
-- Desktop приложение на WPF, которое можно забрать с собой, таблицы SQL хранятся в папке с программой.
+- Desktop приложение на WPF, которое можно забрать с собой, БД хранится в папке с программой в .xls файле.  [ExcelWord](https://github.com/ZhiyanovAndrey/FromExcelWord)
 
 P.S. для рекрутеров:  
 С июля 2023 мало Contributions, так как делаю проект TaskManager и развивал его в ветке develop, а Contributions сохраняются только от ветки по умолчанию, т.е. с ветки master. 
