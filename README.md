@@ -20,7 +20,7 @@
 - REST API сервис для клиент-серверного приложения с хранением данных на PostgreSQL сервере - [TaskManager](https://github.com/ZhiyanovAndrey/TaskManagerCourse)
 - Desktop приложение по технологии WPF с хранением данных на PostgreSQL или SQL сервере  - [StuffManager](https://github.com/ZhiyanovAndrey/StaffManager)
 - Desktop приложение по технологии WPF БД хранится в папке с программой в .xls файле - [ExcelWord](https://github.com/ZhiyanovAndrey/FromExcelWord)
-- Калькулятор для расчета уравнительных токов в контактной сети - [StuffManager](https://github.com/ZhiyanovAndrey/StaffManager)
+- Калькулятор для расчета уравнительных токов в контактной сети - [SurgeCarentCalculater](https://github.com/ZhiyanovAndrey/WpfMVVMsurgeCarentCalculater)
 
 P.S. для рекрутеров:  
 С июля 2023 мало Contributions, так как делаю проект TaskManager и развивал его в ветке develop, а Contributions сохраняются только от ветки по умолчанию, т.е. с ветки master. 
