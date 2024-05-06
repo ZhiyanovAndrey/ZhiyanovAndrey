@@ -18,12 +18,12 @@
 
 - REST API сервис с хранением данных на PostgreSQL сервере - [OnlineStore](https://github.com/ZhiyanovAndrey/OnlineStore)
 - REST API сервис для клиент-серверного приложения с хранением данных на PostgreSQL сервере - [TaskManager](https://github.com/ZhiyanovAndrey/TaskManagerCourse)
-- Desktop приложение по технологии WPF с хранением данных на PostgreSQL или SQL сервере  - [StuffManager](https://github.com/ZhiyanovAndrey/StaffManager)
+- Desktop приложение с применением WPF, Entity Framework с хранением данных на PostgreSQL или SQL сервере  - [StuffManager](https://github.com/ZhiyanovAndrey/StaffManager)
 - Desktop приложение по технологии WPF БД хранится в папке с программой в .xls файле - [ExcelWord](https://github.com/ZhiyanovAndrey/FromExcelWord)
 - Desktop приложение для автоматизации процесса снижения уравнительных токов в контактной сети - [SurgeCarentCalculater](https://github.com/ZhiyanovAndrey/WpfMVVMsurgeCarentCalculater)
 
 P.S. для рекрутеров:  
-С июля 2023 мало Contributions, так как делаю проект TaskManager и развивал его в ветке develop, а Contributions сохраняются только от ветки по умолчанию, т.е. с ветки master. 
+С июля 2023 мало Contributions, так как делал проект TaskManager и развивал его в ветке develop, а Contributions сохраняются только от ветки по умолчанию, т.е. с ветки master. 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZhiyanovAndrey&layout=compact)](https://github.com/ZhiyanovAndrey/github-readme-stats)
 
