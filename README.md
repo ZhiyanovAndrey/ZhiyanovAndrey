@@ -14,7 +14,7 @@
 **Сертификат Autodesk Revit** [здесь](https://github.com/ZhiyanovAndrey/ZhiyanovAndrey/blob/main/2022-03-22%20AutoDesk%20Revit%20%D0%B4%D0%BB%D1%8F%20%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D0%BE%D0%B2%20%D1%81%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82.pdf)
 
 
-Для вашей компании я могу сделать:
+Для вашей компании, на примерах выполненных проектов, я могу сделать:
 
 - REST API сервис с хранением данных на PostgreSQL сервере - [OnlineStore](https://github.com/ZhiyanovAndrey/OnlineStore)
 - REST API сервис для клиент-серверного приложения с хранением данных на PostgreSQL сервере - [TaskManager](https://github.com/ZhiyanovAndrey/TaskManagerCourse)
