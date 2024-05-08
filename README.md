@@ -22,7 +22,7 @@
 - Desktop приложение по технологии WPF БД хранится в папке с программой в .xls файле - [ExcelWord](https://github.com/ZhiyanovAndrey/FromExcelWord)
 - Desktop приложение для автоматизации процесса снижения уравнительных токов в контактной сети - [SurgeCarentCalculater](https://github.com/ZhiyanovAndrey/WpfMVVMsurgeCarentCalculater)
 
-P.S. для рекрутеров:  
+P.S. для рекрутеров и HR:  
 С июля 2023 мало Contributions, так как делал проект TaskManager и развивал его в ветке develop, а Contributions сохраняются только от ветки по умолчанию, т.е. с ветки master. 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZhiyanovAndrey&layout=compact)](https://github.com/ZhiyanovAndrey/github-readme-stats)
