@@ -1,16 +1,14 @@
 ![Иллюстрация к проекту](https://vscode.ru/wp-content/uploads/2017/11/hello-world.jpg)
 ### :man_technologist: Обо мне :
 
-- :telescope: Привет! Меня зовут Андрей я занимаюсь backend разработкой на C# в течении 2-х лет.
-
- Реализовал два десктопных приложения для автоматизации бизнес-процессов на моем предыдущем месте работы:
-- Менеджер для организации работ с персоналом [StuffManager](https://github.com/ZhiyanovAndrey/StaffManager);
+Привет! Меня зовут Андрей я занимаюсь backend разработкой на C# в течении 2-х лет. Реализовал два десктопных приложения для автоматизации бизнес-процессов на моем предыдущем месте работы:
+- Менеджер для организации работ с персоналом [StuffManager](https://github.com/AndreyZhiyanov/StaffManager);
 - Приложение для подсчета уравнительного тока в контактной сети в целях снижения затрат на электроэнергию [SurgeCarentCalculater](https://github.com/ZhiyanovAndrey/WpfMVVMsurgeCarentCalculater).
 
-- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-your-username-blue?style=flat&logo=Telegram&logoColor=white)](your-tg-url)
+:mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-ZhiyanovAndrey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/aazhiyanov)
 
 
-Использую в работе C#, PostgreSQL, WPF, ASP.NET, Entity Framework.  Интересуюсь Docker, Linux.
+### Использую в работе C#, PostgreSQL, WPF, ASP.NET, Entity Framework.  Интересуюсь Docker, Linux.
   
 **Диплом ИТМО C#, WPF** [здесь](https://github.com/ZhiyanovAndrey/ZhiyanovAndrey/blob/main/2022-04-30%20%D0%B4%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC%20%D0%98%D0%A2%D0%9C%D0%9E.pdf)
 
