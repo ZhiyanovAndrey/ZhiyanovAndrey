@@ -1,8 +1,14 @@
 ![Иллюстрация к проекту](https://vscode.ru/wp-content/uploads/2017/11/hello-world.jpg)
 ### :man_technologist: Обо мне :
-Привет! Меня зовут Андрей я занимаюсь разработкой на C# по технологии WPF в течении 2-х лет. Реализовал два десктопных приложения для автоматизации бизнес-процессов на моем предыдущем месте работы:
-- StaffManager менеджер для организации работ с персоналом;
-- WPFSurgeCurentСalculator приложение для подсчета уравнительного тока в контактной сети в целях снижения затрат на электроэнергию.
+
+- :telescope: Привет! Меня зовут Андрей я занимаюсь backend разработкой на C# в течении 2-х лет.
+
+ Реализовал два десктопных приложения для автоматизации бизнес-процессов на моем предыдущем месте работы:
+- Менеджер для организации работ с персоналом [StuffManager](https://github.com/ZhiyanovAndrey/StaffManager);
+- Приложение для подсчета уравнительного тока в контактной сети в целях снижения затрат на электроэнергию [SurgeCarentCalculater](https://github.com/ZhiyanovAndrey/WpfMVVMsurgeCarentCalculater).
+
+- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-your-username-blue?style=flat&logo=Telegram&logoColor=white)](your-tg-url)
+
 
 Использую в работе C#, PostgreSQL, WPF, ASP.NET, Entity Framework.  Интересуюсь Docker, Linux.
   
