@@ -9,6 +9,13 @@
 
 
 ### Использую в работе C#, PostgreSQL, WPF, ASP.NET, Entity Framework.  Интересуюсь Docker, Linux.
+![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-316192?style=for-the-badge&logo=docker&logoColor=white)
+![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![TeamCity](https://img.shields.io/badge/teamcity-000000.svg?style=for-the-badge&logo=teamcity&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+
   
 **Диплом ИТМО C#, WPF** [здесь](https://github.com/ZhiyanovAndrey/ZhiyanovAndrey/blob/main/2022-04-30%20%D0%B4%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC%20%D0%98%D0%A2%D0%9C%D0%9E.pdf)
 
