@@ -37,6 +37,7 @@
 P.S. для рекрутеров и HR:  
 С июля 2023 мало Contributions, так как делал проект TaskManager и развивал его в ветке develop, а Contributions сохраняются только от ветки по умолчанию, т.е. с ветки master. 
 ### :fire: My Stats :
+[![GitHub Streak](https://streak-stats.demolab.com?user=your-github-username&theme=transparent&hide_border=true&mode=weekly&fire=FF2222&dates=2C68F6&currStreakLabel=2C68F6&currStreakNum=2C68F6)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZhiyanovAndrey&layout=compact)](https://github.com/ZhiyanovAndrey/github-readme-stats)
 
