@@ -6,6 +6,8 @@
 - Приложение для подсчета уравнительного тока в контактной сети в целях снижения затрат на электроэнергию [SurgeCarentCalculater](https://github.com/ZhiyanovAndrey/WpfMVVMsurgeCarentCalculater).
 
 :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-ZhiyanovAndrey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/aazhiyanov)
+:mailbox:How to reach me: [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://t.me/aazhiyanov)
+
 
 
 ### Использую в работе C#, PostgreSQL, WPF, ASP.NET, Entity Framework.  Интересуюсь Docker, Linux.
