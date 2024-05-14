@@ -44,13 +44,11 @@
 
 ### :fire: My Stats :
 
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=ZhiyanovAndrey&theme=transparent&hide_border=true&mode=weekly&fire=FF2222&dates=2C68F6&currStreakLabel=2C68F6&currStreakNum=2C68F6)](https://github.com/ZhiyanovAndrey)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZhiyanovAndrey)](https://github.com/ZhiyanovAndrey/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZhiyanovAndrey&layout=compact)](https://github.com/ZhiyanovAndrey/github-readme-stats)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZhiyanovAndrey)](https://github.com/ZhiyanovAndrey/github-readme-stats)
 
 [![codewars](https://www.codewars.com/users/ZhiyanovAndrey/badges/large)](https://www.codewars.com/users/ZhiyanovAndrey)
 
