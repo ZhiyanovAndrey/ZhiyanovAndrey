@@ -2,7 +2,7 @@
 ### :man_technologist: Обо мне:
 
 Привет я рад видеть тебя на моей странице! Меня зовут Андрей я занимаюсь backend разработкой на C# в течении 2-х лет. Реализовал два десктопных приложения для автоматизации бизнес-процессов на моем предыдущем месте работы:
-- Менеджер для организации работ с персоналом [StuffManager](https://github.com/AndreyZhiyanov/StaffManager);
+- Менеджер для организации работ с персоналом [StuffManager](https://github.com/ZhiyanovAndrey/StaffManager);
 - Приложение для подсчета уравнительного тока в контактной сети в целях снижения затрат на электроэнергию [SurgeCarentCalculater](https://github.com/ZhiyanovAndrey/WpfMVVMsurgeCarentCalculater).
 
 :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-ZhiyanovAndrey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/aazhiyanov)
