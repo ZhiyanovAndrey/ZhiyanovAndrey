@@ -20,7 +20,7 @@
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
   
-
+---
 
 
 Для вашей компании, на примерах выполненных проектов, я могу сделать:
@@ -33,7 +33,7 @@
 - Калькуляторы - [FuelCalculator](https://github.com/ZhiyanovAndrey/FuelCalculator), [Calculator](https://github.com/ZhiyanovAndrey/WPF-Calculator)
 - Текстовый редактор с темной и светлой темой -   [Calculator](https://github.com/ZhiyanovAndrey/WPF-Calculator)  
 
-
+---
 ###
 **Диплом ИТМО C#, WPF** [здесь](https://github.com/ZhiyanovAndrey/ZhiyanovAndrey/blob/main/2022-04-30%20%D0%B4%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC%20%D0%98%D0%A2%D0%9C%D0%9E.pdf)
 
@@ -43,7 +43,7 @@
 
 **Сертификат Autodesk Revit** [здесь](https://github.com/ZhiyanovAndrey/ZhiyanovAndrey/blob/main/2022-03-22%20AutoDesk%20Revit%20%D0%B4%D0%BB%D1%8F%20%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D0%BE%D0%B2%20%D1%81%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82.pdf),  Autodesk Revit API [здесь](https://github.com/ZhiyanovAndrey/ZhiyanovAndrey/blob/main/2022-03-22%20AutoDesk%20Revit%20%D0%B4%D0%BB%D1%8F%20%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D0%BE%D0%B2%20%D1%81%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82.pdf)
 
-
+---
 ### :fire: My Stats :
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ZhiyanovAndrey&theme=transparent&hide_border=true&mode=weekly&fire=FF2222&dates=2C68F6&currStreakLabel=2C68F6&currStreakNum=2C68F6)](https://github.com/ZhiyanovAndrey)
