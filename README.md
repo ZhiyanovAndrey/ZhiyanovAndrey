@@ -19,8 +19,7 @@
 ![Docker](https://img.shields.io/badge/Docker-316192?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![VS](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![VS](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white![изображение](https://github.com/ZhiyanovAndrey/ZhiyanovAndrey/assets/95161408/5ca83314-b6b6-4b43-927b-6f71a648b9c2)
-)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
 
