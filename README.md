@@ -39,7 +39,7 @@
 - Desktop приложение по технологии WPF БД хранится в папке с программой в .xls файле - [ExcelWord](https://github.com/ZhiyanovAndrey/FromExcelWord)
 - Desktop приложение для автоматизации процесса снижения уравнительных токов в контактной сети - [SurgeCarentCalculater](https://github.com/ZhiyanovAndrey/WpfMVVMsurgeCarentCalculater)
 - Калькуляторы - [FuelCalculator](https://github.com/ZhiyanovAndrey/FuelCalculator), [Calculator](https://github.com/ZhiyanovAndrey/WPF-Calculator)
-- Текстовый редактор с темной и светлой темой -   [Calculator](https://github.com/ZhiyanovAndrey/WPF-Calculator)  
+- Текстовый редактор с темной и светлой темой -   [Text](https://github.com/ZhiyanovAndrey/WpfApp3-Window)  
 
 ---
 ###
