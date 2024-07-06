@@ -63,10 +63,10 @@
 [![codewars](https://www.codewars.com/users/ZhiyanovAndrey/badges/large)](https://www.codewars.com/users/ZhiyanovAndrey)
 
 
-P.S. для рекрутеров и HR:  
+P.S. 
 С июля 2023 мало Contributions, так как делал проект TaskManager и развивал его в ветке develop, а Contributions сохраняются только от ветки по умолчанию, т.е. с ветки master. 
 
-<!--
+<!--P.S. для рекрутеров и HR:
 **ZhiyanovAndrey/ZhiyanovAndrey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ![Иллюстрация к проекту](https://github.com/jon/coolproject/raw/master/image/image.png)
